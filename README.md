@@ -1,6 +1,6 @@
 Ronin Trail - Action adventure game about a wandering samurai. Developed with Unreal Engine 4.
 
-https://www.ronintrailgame.com/
+https://www.ronintrail.net/
 
 https://www.kickstarter.com/projects/ronintrail/ronin-trail
 
